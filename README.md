@@ -34,21 +34,6 @@ The system classifies tweets as **Positive or Negative**, provides **visual anal
 
 ---
 
-## 📂 Project Structure
-sentiment-analysis-project/
-│
-├── app.py # Streamlit dashboard UI
-├── model_train.py # Model training script
-├── preprocess.py # Text preprocessing + sarcasm detection
-├── dataset.csv / tweet_sentiment.csv # Dataset
-├── sentiment_model.pkl # Trained ML model
-├── tfidf_vectorizer.pkl # TF-IDF vectorizer
-├── requirements.txt # Dependencies
-└── README.md # Documentation
-
-
----
-
 ## ⚙️ How It Works
 
 ### 1. Data Preprocessing
