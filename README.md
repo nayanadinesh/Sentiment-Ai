@@ -9,17 +9,17 @@ The system classifies tweets as **Positive or Negative**, provides **visual anal
 ## 🚀 Features
 
 🔍 Predict sentiment of user-entered text (Positive / Negative)
-😏 Detect sarcasm and adjust prediction accordingly
-📊 Dashboard visualizations:
+-😏 Detect sarcasm and adjust prediction accordingly
+-📊 Dashboard visualizations:
   - Sentiment distribution (donut chart)
   - Sentiment trend over time (line chart)
-🎯 Dynamic filters:
+-🎯 Dynamic filters:
   - Keyword-based filtering
   - Sentiment filtering
   - Username filtering
   - Date range filtering
-📄 View filtered tweets in tabular format
-⚡ Fast and lightweight ML model (Logistic Regression)
+-📄 View filtered tweets in tabular format
+-⚡ Fast and lightweight ML model (Logistic Regression)
 ## 🧠 Technologies Used
 
 - Python
